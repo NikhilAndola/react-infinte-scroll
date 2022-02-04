@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.container {
+  width: auto;
+  background: #ebebeb;
+  border-radius: 6px;
+  margin: 18px;
+  padding: 5px;
+}
